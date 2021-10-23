@@ -7,7 +7,7 @@
 ## Inventories
 
 ```text
-prod/hosta.yml - хосты и параметры подключения
+prod/hosts.yml - хосты и параметры подключения
 ```
 
 ## Play site.yml
